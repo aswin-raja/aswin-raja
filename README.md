@@ -1,7 +1,7 @@
 # Hello, I'm ASWIN RAJA  - [view my portfolio](https://aswinraja.netlify.app/)
 
 
-<img src="https://github.com/aswin-raja/aswin-raja/blob/f606e363de52605be1f6b226c70de2aa1c292455/main.png" style="width:100%; height:50%;">
+<img src="https://github.com/aswin-raja/aswin-raja/blob/cebd19955e99a895211ba387fcc975f7df694944/main.png" style="width:100%; height:50%;">
 
 ## About Me 
 As a software engineer and traveler, I have the best of both worlds. My passion for coding and my love for exploring new places come together to create an exciting and fulfilling lifestyle. Whether I'm working on building innovative websites and applications or embarking on adventures to far-flung destinations, I thrive on the opportunities to learn, create, and connect with people from diverse cultures. From writing elegant lines of code to capturing breathtaking moments with my camera, I am constantly inspired by the ever-evolving landscape of technology and the beauty of the world. As a web developer, I harness my Certifications & Skills to bring creative visions to life, while as a traveler, I seek out new experiences that broaden my horizons and feed my wanderlust. With a curious mind and a heart that craves discovery, I am always ready for the next adventure, both in the digital realm and the physical world.
